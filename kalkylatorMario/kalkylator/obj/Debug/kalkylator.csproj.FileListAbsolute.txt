@@ -1,0 +1,15 @@
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator.csprojAssemblyReference.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\MainWindow.g.cs
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\App.g.cs
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator_MarkupCompile.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator_MarkupCompile.lref
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\bin\Debug\kalkylator.exe.config
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\bin\Debug\kalkylator.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\bin\Debug\kalkylator.pdb
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\MainWindow.baml
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator.g.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator.Properties.Resources.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator.csproj.GenerateResource.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\kalkylator\kalkylator\obj\Debug\kalkylator.pdb
